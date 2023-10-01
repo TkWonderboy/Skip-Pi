@@ -30,9 +30,9 @@ There is commented out code in ```/api/StartSkip.py```  that will send a message
 
 -Open a terminal and go to the directory you placed this code.
 
--Run command in the terminal 'pip install requirements.txt'
+-Run command in the terminal 'pip install -r requirements.txt'
 
--Once the above command completes type 'export FLASK_APP = app.py' and hit enter.
+-Once the above command completes type 'export FLASK_APP=app.py' and hit enter.
 
 -Once the above command completes type 'flask run --host=0.0.0.0' and hit enter.
 
